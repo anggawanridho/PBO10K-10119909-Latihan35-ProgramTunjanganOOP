@@ -7,6 +7,7 @@ import java.util.Scanner;
  * KELAS    : IF 10K
  * NIM      : 10119909
  */
+
 public class User {
     private String status;
     private Double gajipokok, totalgaji, tunjangan;
